@@ -1,0 +1,24 @@
+{
+  "name": "index-of-js",
+  "version": "1.0.0",
+  "description": "mdn Array#prototyp#indexOf",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AWinterman/indexOf.js.git"
+  },
+  "keywords": [
+    "indexOf",
+    "array",
+    "buffer",
+    "string"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWinterman/indexOf.js/issues"
+  }
+}
